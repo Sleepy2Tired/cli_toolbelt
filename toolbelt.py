@@ -8,6 +8,7 @@ TOOLS = {
     "1": ("Quick Notes", ROOT / "quick_notes_cli" / "main.py"),
     "2": ("Focus Timer", ROOT / "focus_timer_cli" / "main.py"),
     "3": ("Idea Box", ROOT / "idea_box_cli" / "main.py"),
+    "4": ("Task Streaks", ROOT / "task_streaks_cli" / "main.py"),
 }
 
 def run_tool(key: str):
